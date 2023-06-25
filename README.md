@@ -8,7 +8,7 @@ Sx Bot is a multi-purpose Discord bot ready to elevate your Discord server with 
 
 # Sx Live
 
-Sx Live is a live stream announcing bot that automatically sends notifications to your Discord server when you or your favorite streamers go live on Kick, Twitch, or YouTube!
+Sx Live is a live stream announcing bot that automatically sends notifications to your Discord server when you or your favorite streamers go live on Kick.com, Twitch, or YouTube!
 
 **Website:** https://sxlivebot.com <br>
 **Invite:** https://sxlivebot.com/invite <br>
@@ -18,5 +18,3 @@ Sx Live is a live stream announcing bot that automatically sends notifications t
 <h2>Support Server:</h2>
 <p><a href="https://discord.gg/R4DtNZm" target="_blank" rel="nofollow noopener"><img src="https://discordapp.com/api/guilds/696873891225665536/widget.png?style=banner2" alt="Discord" /></a></p>
  <a href="https://patreon.com/sxbot" target="_blank" rel="nofollow noopener"><img src="https://sxbot.io/img/patron.png" width="324" height="76" /></a>
-
-Tags: kick notifications, kick alerts, stream announcement, go live, now live, automatic stream notifications, livebot, 7tv, betterttv, frankerfacez
