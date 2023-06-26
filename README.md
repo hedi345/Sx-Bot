@@ -1,3 +1,12 @@
+# Sx Live
+
+Sx Live is a live stream announcing bot that automatically sends notifications to your Discord server when you or your favorite streamers go live on Kick.com, Twitch, or YouTube!
+
+**Website:** https://sxlivebot.com <br>
+**Invite:** https://sxlivebot.com/invite <br>
+**Premium:** https://patreon.com/sxbot <br>
+
+
 # Sx Bot
 
 Sx Bot is a multi-purpose Discord bot ready to elevate your Discord server with live stream notifications, streamer roles, nitro boost tracking, reaction roles, invite tracking, games, fun commands, utilities, and much more!
@@ -6,13 +15,6 @@ Sx Bot is a multi-purpose Discord bot ready to elevate your Discord server with 
 **Invite:** https://invite.sxbot.io <br>
 **Premium:** https://patreon.com/sxbot <br>
 
-# Sx Live
-
-Sx Live is a live stream announcing bot that automatically sends notifications to your Discord server when you or your favorite streamers go live on Kick.com, Twitch, or YouTube!
-
-**Website:** https://sxlivebot.com <br>
-**Invite:** https://sxlivebot.com/invite <br>
-**Premium:** https://patreon.com/sxbot <br>
 
 <hr />
 <h2>Support Server:</h2>
