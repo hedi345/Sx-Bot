@@ -6,6 +6,8 @@ Sx Live is a live stream announcing bot that automatically sends notifications t
 **Invite:** https://sxlivebot.com/invite <br>
 **Premium:** https://patreon.com/sxbot <br>
 
+<img width="400" alt="kick-alerts" src="https://github.com/pkdev08/Sx-Bot/assets/54294685/3d356557-a73d-41a6-aa16-1cb9501d9b9c">
+
 
 # Sx Bot
 
